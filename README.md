@@ -1,6 +1,6 @@
 # dotfiles
 
-##Installation
+## Installation
 
 To install, type these commands starting in your home directory:
 
