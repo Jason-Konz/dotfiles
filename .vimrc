@@ -21,6 +21,7 @@ set softtabstop=4       " backspace after pressing <TAB> will remove up to this 
 set autoindent          " copy indent from current line when starting a new line
 set smartindent         " even better autoindent (e.g. add indent after '{')
 
+autocmd FileType make set noexpandtab shiftwidth=8 softtabstop=0
 
 """" Highlight Search
 set hls
